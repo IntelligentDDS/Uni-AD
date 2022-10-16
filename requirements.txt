@@ -1,0 +1,17 @@
+ipython==8.5.0
+matplotlib==3.3.3
+numba==0.52.0
+numpy==1.19.4
+pandas==1.2.4
+pytz==2020.4
+requests==2.28.1
+robust_loss_pytorch==0.0.2
+scikit_learn==1.1.2
+scipy==1.5.4
+seaborn==0.11.1
+six==1.15.0
+tensorflow==2.10.0
+tensorflow_probability==0.18.0
+torch==1.7.0
+torch_geometric==1.6.3
+tqdm==4.54.1
